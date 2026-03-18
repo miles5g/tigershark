@@ -31,7 +31,7 @@ const Index = () => {
 
       <div className="relative z-10 w-full max-w-lg flex flex-col items-center gap-6">
         {/* Logo */}
-        <div className="w-28 h-28 sm:w-32 sm:h-32 rounded-full bg-card border border-border glow-border flex items-center justify-center overflow-hidden p-2">
+        <div className="w-40 h-40 sm:w-48 sm:h-48 rounded-full bg-card border border-border glow-border flex items-center justify-center overflow-hidden p-2">
           <img src={tigersharkLogo} alt="Tigershark Pools Inc. logo" className="w-full h-full object-contain" />
         </div>
 
